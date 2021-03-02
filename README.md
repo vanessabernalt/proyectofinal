@@ -1,6 +1,6 @@
-# ideqs
+# 
 
-IDEQS Sorftware for manage ID Card
+Software for manage ID Card
 
 ## Getting Started
 
